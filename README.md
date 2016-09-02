@@ -39,3 +39,5 @@ This is because you will need to create an actual file, not just a new folder. B
 The `Commit new file` button should no longer be grayed out. Click on it to finish.
 
 ![Can Commit](img/Can%20Commit.png)
+
+Repeat this for all three folders.
